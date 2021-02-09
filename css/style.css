@@ -75,6 +75,15 @@ body {
   cursor: pointer;
 }
 
+.startButton {
+  border: 1px solid #02201a;
+  border-radius: 10px;
+  background-color: rgb(8, 221, 104);
+  width: 150px;
+  height: 20px;
+  margin: auto;
+}
+
 .anima1 {
   background-image: url(../imgs/helicoptero.png);
   animation: play 0.3s steps(2) infinite;
